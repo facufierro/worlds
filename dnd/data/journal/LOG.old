@@ -1,8 +1,5 @@
-2024/02/13-08:32:13.351 4c28 Recovering log #622
-2024/02/13-08:32:13.356 4c28 Delete type=0 #622
-2024/02/13-08:32:13.356 4c28 Delete type=3 #621
-2024/02/13-09:37:18.598 6f70 Level-0 table #626: started
-2024/02/13-09:37:18.598 6f70 Level-0 table #626: 0 bytes OK
-2024/02/13-09:37:18.600 6f70 Delete type=0 #624
-2024/02/13-09:37:18.602 6f70 Manual compaction at level-0 from '!journal!70L8w3qIh1iDJITk' @ 72057594037927935 : 1 .. '!journal.pages!70L8w3qIh1iDJITk.OVj51yCNXoVJC4Hu' @ 0 : 0; will stop at (end)
-2024/02/13-09:37:18.609 6f70 Manual compaction at level-1 from '!journal!70L8w3qIh1iDJITk' @ 72057594037927935 : 1 .. '!journal.pages!70L8w3qIh1iDJITk.OVj51yCNXoVJC4Hu' @ 0 : 0; will stop at (end)
+2024/02/13-10:18:54.233 1e28 Log #629: 0 ops saved to Table #630 OK
+2024/02/13-10:18:54.233 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/journal/000629.log: OK
+2024/02/13-10:18:54.233 1e28 Table #554: 4 entries OK
+2024/02/13-10:18:54.233 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/journal/MANIFEST-000627: OK
+2024/02/13-10:18:54.238 1e28 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/journal; recovered 1 files; 3998 bytes. Some data may have been lost. ****

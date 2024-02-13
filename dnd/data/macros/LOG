@@ -1,8 +1,1 @@
-2024/02/13-09:42:31.599 56f4 Recovering log #631
-2024/02/13-09:42:31.609 56f4 Delete type=0 #631
-2024/02/13-09:42:31.609 56f4 Delete type=3 #629
-2024/02/13-10:03:55.899 6f70 Level-0 table #636: started
-2024/02/13-10:03:55.899 6f70 Level-0 table #636: 0 bytes OK
-2024/02/13-10:03:55.901 6f70 Delete type=0 #634
-2024/02/13-10:03:55.901 6f70 Manual compaction at level-0 from '!macros!0jt3bvVLJso2sRtW' @ 72057594037927935 : 1 .. '!macros!zeo94M4hlawchefK' @ 0 : 0; will stop at (end)
-2024/02/13-10:03:55.901 6f70 Manual compaction at level-1 from '!macros!0jt3bvVLJso2sRtW' @ 72057594037927935 : 1 .. '!macros!zeo94M4hlawchefK' @ 0 : 0; will stop at (end)
+2024/02/13-10:18:54.271 718 Delete type=3 #1

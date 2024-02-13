@@ -1,17 +1,5 @@
-2024/02/13-08:32:13.482 4c28 Recovering log #648
-2024/02/13-08:32:13.483 4c28 Level-0 table #650: started
-2024/02/13-08:32:13.487 4c28 Level-0 table #650: 56625 bytes OK
-2024/02/13-08:32:13.492 4c28 Delete type=0 #648
-2024/02/13-08:32:13.492 4c28 Delete type=3 #647
-2024/02/13-09:37:18.780 6f70 Level-0 table #653: started
-2024/02/13-09:37:18.783 6f70 Level-0 table #653: 27398 bytes OK
-2024/02/13-09:37:18.784 6f70 Delete type=0 #651
-2024/02/13-09:37:18.785 6f70 Manual compaction at level-0 from '!users!GUMPDA0zTYnbMD9Y' @ 72057594037927935 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at '!users!pS7WJX8uUJ4h9AsO' @ 143 : 1
-2024/02/13-09:37:18.785 6f70 Compacting 2@0 + 1@1 files
-2024/02/13-09:37:18.788 6f70 Generated table #654@0: 6 keys, 13895 bytes
-2024/02/13-09:37:18.788 6f70 Compacted 2@0 + 1@1 files => 13895 bytes
-2024/02/13-09:37:18.790 6f70 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-09:37:18.790 6f70 Delete type=2 #646
-2024/02/13-09:37:18.790 6f70 Delete type=2 #650
-2024/02/13-09:37:18.790 6f70 Delete type=2 #653
-2024/02/13-09:37:18.790 6f70 Manual compaction at level-0 from '!users!pS7WJX8uUJ4h9AsO' @ 143 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at (end)
+2024/02/13-10:18:54.351 1e28 Log #657: 0 ops saved to Table #660 OK
+2024/02/13-10:18:54.351 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/000657.log: OK
+2024/02/13-10:18:54.351 1e28 Table #659: 6 entries OK
+2024/02/13-10:18:54.359 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/MANIFEST-000655: OK
+2024/02/13-10:18:54.361 1e28 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users; recovered 1 files; 40307 bytes. Some data may have been lost. ****
