@@ -1,5 +1,6 @@
-2024/02/13-10:18:54.071 1e28 Log #708: 0 ops saved to Table #711 OK
-2024/02/13-10:18:54.071 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/actors/000708.log: OK
-2024/02/13-10:18:54.074 1e28 Table #710: 31 entries OK
-2024/02/13-10:18:54.074 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/actors/MANIFEST-000706: OK
-2024/02/13-10:18:54.074 1e28 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/actors; recovered 1 files; 212259 bytes. Some data may have been lost. ****
+2024/02/13-11:33:38.073 1490 Log #713: 34 ops saved to Table #714 OK
+2024/02/13-11:33:38.073 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/actors/000713.log: OK
+2024/02/13-11:33:38.074 1490 Table #710: 31 entries OK
+2024/02/13-11:33:38.075 1490 Table #714: 34 entries OK
+2024/02/13-11:33:38.077 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/actors/MANIFEST-000712: OK
+2024/02/13-11:33:38.080 1490 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/actors; recovered 2 files; 299980 bytes. Some data may have been lost. ****

@@ -1,5 +1,5 @@
-2024/02/13-10:18:54.351 1e28 Log #657: 0 ops saved to Table #660 OK
-2024/02/13-10:18:54.351 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/000657.log: OK
-2024/02/13-10:18:54.351 1e28 Table #659: 6 entries OK
-2024/02/13-10:18:54.359 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/MANIFEST-000655: OK
-2024/02/13-10:18:54.361 1e28 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users; recovered 1 files; 40307 bytes. Some data may have been lost. ****
+2024/02/13-11:33:38.444 1490 Log #662: 0 ops saved to Table #663 OK
+2024/02/13-11:33:38.444 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/000662.log: OK
+2024/02/13-11:33:38.444 1490 Table #659: 6 entries OK
+2024/02/13-11:33:38.447 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/MANIFEST-000661: OK
+2024/02/13-11:33:38.449 1490 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users; recovered 1 files; 40307 bytes. Some data may have been lost. ****

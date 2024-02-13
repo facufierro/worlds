@@ -1,5 +1,9 @@
-2024/02/13-10:18:54.301 1e28 Log #832: 0 ops saved to Table #835 OK
-2024/02/13-10:18:54.301 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/scenes/000832.log: OK
-2024/02/13-10:18:54.301 1e28 Table #834: 2829 entries OK
-2024/02/13-10:18:54.311 1e28 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/scenes/MANIFEST-000827: OK
-2024/02/13-10:18:54.313 1e28 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/scenes; recovered 1 files; 632775 bytes. Some data may have been lost. ****
+2024/02/13-11:33:38.345 1490 Log #858: 89 ops saved to Table #860 OK
+2024/02/13-11:33:38.345 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/scenes/000858.log: OK
+2024/02/13-11:33:38.347 1490 Table #853: 3192 entries OK
+2024/02/13-11:33:38.349 1490 Table #855: 1278 entries OK
+2024/02/13-11:33:38.352 1490 Table #857: 1111 entries OK
+2024/02/13-11:33:38.354 1490 Table #859: 1462 entries OK
+2024/02/13-11:33:38.355 1490 Table #860: 89 entries OK
+2024/02/13-11:33:38.358 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/scenes/MANIFEST-000836: OK
+2024/02/13-11:33:38.361 1490 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/scenes; recovered 5 files; 11523825 bytes. Some data may have been lost. ****
