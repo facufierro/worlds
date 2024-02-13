@@ -1,0 +1,45 @@
+2024/02/13-08:32:13.414 4c28 Recovering log #811
+2024/02/13-08:32:13.419 4c28 Level-0 table #815: started
+2024/02/13-08:32:13.431 4c28 Level-0 table #815: 1704860 bytes OK
+2024/02/13-08:32:13.435 4c28 Delete type=2 #808
+2024/02/13-08:32:13.436 4c28 Delete type=0 #811
+2024/02/13-08:32:13.436 4c28 Delete type=2 #812
+2024/02/13-08:32:13.436 4c28 Delete type=3 #809
+2024/02/13-08:32:19.250 6f70 Moved #815 to level-1 1704860 bytes OK: files[ 0 1 1 0 0 0 0 ]
+2024/02/13-08:32:19.250 6f70 Compacting 1@1 + 1@2 files
+2024/02/13-08:32:19.260 6f70 Generated table #817@1: 2281 keys, 514148 bytes
+2024/02/13-08:32:19.260 6f70 Compacted 1@1 + 1@2 files => 514148 bytes
+2024/02/13-08:32:19.260 6f70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/13-08:32:19.260 6f70 Delete type=2 #813
+2024/02/13-08:32:19.260 6f70 Delete type=2 #815
+2024/02/13-08:56:33.315 6f70 Level-0 table #819: started
+2024/02/13-08:56:33.328 6f70 Level-0 table #819: 1939788 bytes OK
+2024/02/13-08:56:33.329 6f70 Delete type=0 #816
+2024/02/13-09:29:28.487 6f70 Compacting 1@1 + 1@2 files
+2024/02/13-09:29:28.492 6f70 Generated table #820@1: 2498 keys, 567362 bytes
+2024/02/13-09:29:28.492 6f70 Compacted 1@1 + 1@2 files => 567362 bytes
+2024/02/13-09:29:28.492 6f70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/13-09:29:28.492 6f70 Delete type=2 #817
+2024/02/13-09:29:28.492 6f70 Delete type=2 #819
+2024/02/13-09:29:30.835 6f70 Level-0 table #822: started
+2024/02/13-09:29:30.852 6f70 Level-0 table #822: 1815276 bytes OK
+2024/02/13-09:29:30.853 6f70 Delete type=0 #818
+2024/02/13-09:37:18.621 6f70 Level-0 table #824: started
+2024/02/13-09:37:18.632 6f70 Level-0 table #824: 866656 bytes OK
+2024/02/13-09:37:18.633 6f70 Delete type=0 #821
+2024/02/13-09:37:18.702 6f70 Manual compaction at level-0 from '!scenes!4Dp9WIpteID6o7sP' @ 72057594037927935 : 1 .. '!scenes.walls!vf3PCw1c4FP8n8cM.zvmtrFrw4aRnOVMQ' @ 0 : 0; will stop at '!scenes.walls!Fz0ycHCTTSUsY8bW.zz0ShaFCELEkiEnl' @ 178892 : 1
+2024/02/13-09:37:18.702 6f70 Compacting 1@0 + 1@1 files
+2024/02/13-09:37:18.710 6f70 Generated table #825@0: 2989 keys, 151797 bytes
+2024/02/13-09:37:18.710 6f70 Compacted 1@0 + 1@1 files => 151797 bytes
+2024/02/13-09:37:18.710 6f70 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/02/13-09:37:18.711 6f70 Delete type=2 #822
+2024/02/13-09:37:18.711 6f70 Delete type=2 #824
+2024/02/13-09:37:18.718 6f70 Manual compaction at level-0 from '!scenes.walls!Fz0ycHCTTSUsY8bW.zz0ShaFCELEkiEnl' @ 178892 : 1 .. '!scenes.walls!vf3PCw1c4FP8n8cM.zvmtrFrw4aRnOVMQ' @ 0 : 0; will stop at (end)
+2024/02/13-09:37:18.726 6f70 Manual compaction at level-1 from '!scenes!4Dp9WIpteID6o7sP' @ 72057594037927935 : 1 .. '!scenes.walls!vf3PCw1c4FP8n8cM.zvmtrFrw4aRnOVMQ' @ 0 : 0; will stop at '!scenes.walls!b7y7lfPFAG0IZJNy.zpKU0qVDLNYap8I1' @ 177939 : 1
+2024/02/13-09:37:18.726 6f70 Compacting 1@1 + 1@2 files
+2024/02/13-09:37:18.735 6f70 Generated table #826@1: 2737 keys, 596449 bytes
+2024/02/13-09:37:18.735 6f70 Compacted 1@1 + 1@2 files => 596449 bytes
+2024/02/13-09:37:18.736 6f70 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/02/13-09:37:18.736 6f70 Delete type=2 #820
+2024/02/13-09:37:18.736 6f70 Delete type=2 #825
+2024/02/13-09:37:18.740 6f70 Manual compaction at level-1 from '!scenes.walls!b7y7lfPFAG0IZJNy.zpKU0qVDLNYap8I1' @ 177939 : 1 .. '!scenes.walls!vf3PCw1c4FP8n8cM.zvmtrFrw4aRnOVMQ' @ 0 : 0; will stop at (end)

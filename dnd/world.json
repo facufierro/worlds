@@ -1,0 +1,14 @@
+{
+  "title": "dnd",
+  "id": "dnd",
+  "system": "dnd5e",
+  "joinTheme": "minimal",
+  "coreVersion": "11.315",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "systemVersion": "3.0.1",
+  "lastPlayed": "Tue Feb 13 2024 10:03:55 GMT+0100 (Central European Standard Time)",
+  "playtime": 204220
+}
