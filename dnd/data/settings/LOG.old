@@ -1,6 +1,14 @@
-2024/02/13-11:33:38.422 3a00 Log #789: 2 ops saved to Table #790 OK
-2024/02/13-11:33:38.422 3a00 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/settings/000789.log: OK
-2024/02/13-11:33:38.423 3a00 Table #786: 87 entries OK
-2024/02/13-11:33:38.423 3a00 Table #790: 2 entries OK
-2024/02/13-11:33:38.425 3a00 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/settings/MANIFEST-000788: OK
-2024/02/13-11:33:38.428 3a00 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/settings; recovered 2 files; 35538 bytes. Some data may have been lost. ****
+2024/02/13-14:27:58.755 540 Recovering log #803
+2024/02/13-14:27:58.760 540 Delete type=0 #803
+2024/02/13-14:27:58.760 540 Delete type=3 #801
+2024/02/13-16:54:13.732 1518 Level-0 table #809: started
+2024/02/13-16:54:13.737 1518 Level-0 table #809: 10111 bytes OK
+2024/02/13-16:54:13.739 1518 Delete type=0 #807
+2024/02/13-16:54:13.745 1518 Manual compaction at level-0 from '!settings!0LPn2v5OUSeNqjcD' @ 72057594037927935 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at '!settings!hv6CqdAV9eDslXvp' @ 766 : 1
+2024/02/13-16:54:13.745 1518 Compacting 1@0 + 1@1 files
+2024/02/13-16:54:13.749 1518 Generated table #810@0: 87 keys, 33030 bytes
+2024/02/13-16:54:13.749 1518 Compacted 1@0 + 1@1 files => 33030 bytes
+2024/02/13-16:54:13.751 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-16:54:13.751 1518 Delete type=2 #805
+2024/02/13-16:54:13.751 1518 Delete type=2 #809
+2024/02/13-16:54:13.751 1518 Manual compaction at level-0 from '!settings!hv6CqdAV9eDslXvp' @ 766 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at (end)

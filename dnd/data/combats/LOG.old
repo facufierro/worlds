@@ -1,7 +1,7 @@
-2024/02/13-11:33:38.146 1e9c Log #627: 0 ops saved to Table #628 OK
-2024/02/13-11:33:38.146 1e9c Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/combats/000627.log: OK
-2024/02/13-11:33:38.146 1e9c Table #338: 5 entries OK
-2024/02/13-11:33:38.146 1e9c Table #395: 14 entries OK
-2024/02/13-11:33:38.146 1e9c Table #411: 1 entries OK
-2024/02/13-11:33:38.148 1e9c Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/combats/MANIFEST-000626: OK
-2024/02/13-11:33:38.151 1e9c **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/combats; recovered 3 files; 1849 bytes. Some data may have been lost. ****
+2024/02/13-14:27:58.668 1490 Recovering log #639
+2024/02/13-14:27:58.673 1490 Delete type=0 #639
+2024/02/13-14:27:58.673 1490 Delete type=3 #637
+2024/02/13-16:54:13.595 1518 Level-0 table #644: started
+2024/02/13-16:54:13.595 1518 Level-0 table #644: 0 bytes OK
+2024/02/13-16:54:13.597 1518 Delete type=0 #642
+2024/02/13-16:54:13.605 1518 Manual compaction at level-0 from 'undefined' @ 72057594037927935 : 1 .. 'undefined' @ 0 : 0; will stop at (end)

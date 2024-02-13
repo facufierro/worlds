@@ -1,5 +1,36 @@
-2024/02/13-11:33:38.444 1490 Log #662: 0 ops saved to Table #663 OK
-2024/02/13-11:33:38.444 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/000662.log: OK
-2024/02/13-11:33:38.444 1490 Table #659: 6 entries OK
-2024/02/13-11:33:38.447 1490 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users/MANIFEST-000661: OK
-2024/02/13-11:33:38.449 1490 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/users; recovered 1 files; 40307 bytes. Some data may have been lost. ****
+2024/02/13-14:27:58.763 1490 Recovering log #702
+2024/02/13-14:27:58.768 1490 Delete type=0 #702
+2024/02/13-14:27:58.769 1490 Delete type=3 #700
+2024/02/13-14:32:56.211 1518 Level-0 table #708: started
+2024/02/13-14:32:56.222 1518 Level-0 table #708: 772999 bytes OK
+2024/02/13-14:32:56.224 1518 Delete type=0 #706
+2024/02/13-14:41:29.247 1518 Compacting 1@0 + 1@1 files
+2024/02/13-14:41:29.255 1518 Generated table #709@0: 6 keys, 40743 bytes
+2024/02/13-14:41:29.255 1518 Compacted 1@0 + 1@1 files => 40743 bytes
+2024/02/13-14:41:29.257 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-14:41:29.257 1518 Delete type=2 #704
+2024/02/13-14:41:29.257 1518 Delete type=2 #708
+2024/02/13-14:48:26.669 1518 Level-0 table #711: started
+2024/02/13-14:48:26.680 1518 Level-0 table #711: 774318 bytes OK
+2024/02/13-14:48:26.684 1518 Delete type=0 #707
+2024/02/13-15:04:51.644 1518 Compacting 1@0 + 1@1 files
+2024/02/13-15:04:51.653 1518 Generated table #712@0: 6 keys, 40750 bytes
+2024/02/13-15:04:51.653 1518 Compacted 1@0 + 1@1 files => 40750 bytes
+2024/02/13-15:04:51.655 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-15:04:51.655 1518 Delete type=2 #709
+2024/02/13-15:04:51.655 1518 Delete type=2 #711
+2024/02/13-15:31:19.220 1518 Level-0 table #714: started
+2024/02/13-15:31:19.231 1518 Level-0 table #714: 772254 bytes OK
+2024/02/13-15:31:19.234 1518 Delete type=0 #710
+2024/02/13-16:54:13.956 1518 Level-0 table #716: started
+2024/02/13-16:54:13.964 1518 Level-0 table #716: 242072 bytes OK
+2024/02/13-16:54:13.965 1518 Delete type=0 #713
+2024/02/13-16:54:13.965 1518 Manual compaction at level-0 from '!users!GUMPDA0zTYnbMD9Y' @ 72057594037927935 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at '!users!pS7WJX8uUJ4h9AsO' @ 425 : 1
+2024/02/13-16:54:13.965 1518 Compacting 2@0 + 1@1 files
+2024/02/13-16:54:13.970 1518 Generated table #717@0: 6 keys, 28801 bytes
+2024/02/13-16:54:13.970 1518 Compacted 2@0 + 1@1 files => 28801 bytes
+2024/02/13-16:54:13.971 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-16:54:13.971 1518 Delete type=2 #712
+2024/02/13-16:54:13.971 1518 Delete type=2 #714
+2024/02/13-16:54:13.971 1518 Delete type=2 #716
+2024/02/13-16:54:13.971 1518 Manual compaction at level-0 from '!users!pS7WJX8uUJ4h9AsO' @ 425 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at (end)

@@ -1,6 +1,14 @@
-2024/02/13-11:33:38.202 540 Log #738: 3 ops saved to Table #739 OK
-2024/02/13-11:33:38.203 540 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/fog/000738.log: OK
-2024/02/13-11:33:38.203 540 Table #735: 8 entries OK
-2024/02/13-11:33:38.203 540 Table #739: 3 entries OK
-2024/02/13-11:33:38.206 540 Archiving D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/fog/MANIFEST-000737: OK
-2024/02/13-11:33:38.210 540 **** Repaired leveldb D:/Games/FoundryVTT/Data/Data/worlds/dnd/data/fog; recovered 2 files; 397290 bytes. Some data may have been lost. ****
+2024/02/13-14:27:58.683 1490 Recovering log #752
+2024/02/13-14:27:58.688 1490 Delete type=0 #752
+2024/02/13-14:27:58.688 1490 Delete type=3 #750
+2024/02/13-16:54:13.629 1518 Level-0 table #757: started
+2024/02/13-16:54:13.634 1518 Level-0 table #757: 326207 bytes OK
+2024/02/13-16:54:13.636 1518 Delete type=0 #755
+2024/02/13-16:54:13.653 1518 Manual compaction at level-0 from '!fog!645jGWDxaTNx8Usf' @ 72057594037927935 : 1 .. '!fog!wGWzt06z5oHr0KBC' @ 0 : 0; will stop at '!fog!r7EovIQ5rOR4EHOX' @ 316 : 1
+2024/02/13-16:54:13.653 1518 Compacting 1@0 + 1@1 files
+2024/02/13-16:54:13.660 1518 Generated table #758@0: 11 keys, 552555 bytes
+2024/02/13-16:54:13.660 1518 Compacted 1@0 + 1@1 files => 552555 bytes
+2024/02/13-16:54:13.661 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/13-16:54:13.662 1518 Delete type=2 #749
+2024/02/13-16:54:13.662 1518 Delete type=2 #757
+2024/02/13-16:54:13.704 1518 Manual compaction at level-0 from '!fog!r7EovIQ5rOR4EHOX' @ 316 : 1 .. '!fog!wGWzt06z5oHr0KBC' @ 0 : 0; will stop at (end)
