@@ -1,14 +1,17 @@
-2024/02/13-14:27:58.755 540 Recovering log #803
-2024/02/13-14:27:58.760 540 Delete type=0 #803
-2024/02/13-14:27:58.760 540 Delete type=3 #801
-2024/02/13-16:54:13.732 1518 Level-0 table #809: started
-2024/02/13-16:54:13.737 1518 Level-0 table #809: 10111 bytes OK
-2024/02/13-16:54:13.739 1518 Delete type=0 #807
-2024/02/13-16:54:13.745 1518 Manual compaction at level-0 from '!settings!0LPn2v5OUSeNqjcD' @ 72057594037927935 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at '!settings!hv6CqdAV9eDslXvp' @ 766 : 1
-2024/02/13-16:54:13.745 1518 Compacting 1@0 + 1@1 files
-2024/02/13-16:54:13.749 1518 Generated table #810@0: 87 keys, 33030 bytes
-2024/02/13-16:54:13.749 1518 Compacted 1@0 + 1@1 files => 33030 bytes
-2024/02/13-16:54:13.751 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-16:54:13.751 1518 Delete type=2 #805
-2024/02/13-16:54:13.751 1518 Delete type=2 #809
-2024/02/13-16:54:13.751 1518 Manual compaction at level-0 from '!settings!hv6CqdAV9eDslXvp' @ 766 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at (end)
+2024/02/15-16:57:51.383 1b98 Recovering log #849
+2024/02/15-16:57:51.383 1b98 Level-0 table #851: started
+2024/02/15-16:57:51.400 1b98 Level-0 table #851: 2707 bytes OK
+2024/02/15-16:57:51.405 1b98 Delete type=0 #849
+2024/02/15-16:57:51.405 1b98 Delete type=3 #848
+2024/02/15-17:55:47.727 62cc Level-0 table #854: started
+2024/02/15-17:55:47.731 62cc Level-0 table #854: 4484 bytes OK
+2024/02/15-17:55:47.733 62cc Delete type=0 #852
+2024/02/15-17:55:47.751 62cc Manual compaction at level-0 from '!settings!0LPn2v5OUSeNqjcD' @ 72057594037927935 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at '!settings!hv6CqdAV9eDslXvp' @ 809 : 1
+2024/02/15-17:55:47.751 62cc Compacting 2@0 + 1@1 files
+2024/02/15-17:55:47.754 62cc Generated table #855@0: 88 keys, 33463 bytes
+2024/02/15-17:55:47.754 62cc Compacted 2@0 + 1@1 files => 33463 bytes
+2024/02/15-17:55:47.755 62cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/15-17:55:47.756 62cc Delete type=2 #847
+2024/02/15-17:55:47.756 62cc Delete type=2 #851
+2024/02/15-17:55:47.756 62cc Delete type=2 #854
+2024/02/15-17:55:47.774 62cc Manual compaction at level-0 from '!settings!hv6CqdAV9eDslXvp' @ 809 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at (end)

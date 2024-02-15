@@ -1,14 +1,14 @@
-2024/02/13-14:27:58.705 540 Recovering log #646
-2024/02/13-14:27:58.710 540 Delete type=0 #646
-2024/02/13-14:27:58.710 540 Delete type=3 #644
-2024/02/13-16:54:13.611 1518 Level-0 table #652: started
-2024/02/13-16:54:13.616 1518 Level-0 table #652: 133226 bytes OK
-2024/02/13-16:54:13.618 1518 Delete type=0 #650
-2024/02/13-16:54:13.622 1518 Manual compaction at level-0 from '!journal!70L8w3qIh1iDJITk' @ 72057594037927935 : 1 .. '!journal.pages!oKWJ9pZRTX7azIEk.HYh4S0NNQmeUMSqx' @ 0 : 0; will stop at '!journal.pages!Q3axd7q7mWQVxuUa.q09LN90llxgJFPKY' @ 499 : 1
-2024/02/13-16:54:13.622 1518 Compacting 1@0 + 1@1 files
-2024/02/13-16:54:13.626 1518 Generated table #653@0: 37 keys, 144825 bytes
-2024/02/13-16:54:13.626 1518 Compacted 1@0 + 1@1 files => 144825 bytes
-2024/02/13-16:54:13.629 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-16:54:13.629 1518 Delete type=2 #648
-2024/02/13-16:54:13.629 1518 Delete type=2 #652
-2024/02/13-16:54:13.653 1518 Manual compaction at level-0 from '!journal.pages!Q3axd7q7mWQVxuUa.q09LN90llxgJFPKY' @ 499 : 1 .. '!journal.pages!oKWJ9pZRTX7azIEk.HYh4S0NNQmeUMSqx' @ 0 : 0; will stop at (end)
+2024/02/15-16:57:51.276 5774 Recovering log #684
+2024/02/15-16:57:51.281 5774 Delete type=0 #684
+2024/02/15-16:57:51.281 5774 Delete type=3 #683
+2024/02/15-17:55:47.637 62cc Level-0 table #688: started
+2024/02/15-17:55:47.641 62cc Level-0 table #688: 137956 bytes OK
+2024/02/15-17:55:47.644 62cc Delete type=0 #686
+2024/02/15-17:55:47.654 62cc Manual compaction at level-0 from '!journal!70L8w3qIh1iDJITk' @ 72057594037927935 : 1 .. '!journal.pages!gMS4bNovyngUYLwy.0000000000000005' @ 0 : 0; will stop at '!journal.pages!gMS4bNovyngUYLwy.0000000000000005' @ 551 : 1
+2024/02/15-17:55:47.654 62cc Compacting 1@0 + 1@1 files
+2024/02/15-17:55:47.659 62cc Generated table #689@0: 20 keys, 145031 bytes
+2024/02/15-17:55:47.659 62cc Compacted 1@0 + 1@1 files => 145031 bytes
+2024/02/15-17:55:47.662 62cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/15-17:55:47.662 62cc Delete type=2 #658
+2024/02/15-17:55:47.662 62cc Delete type=2 #688
+2024/02/15-17:55:47.671 62cc Manual compaction at level-0 from '!journal.pages!gMS4bNovyngUYLwy.0000000000000005' @ 551 : 1 .. '!journal.pages!gMS4bNovyngUYLwy.0000000000000005' @ 0 : 0; will stop at (end)

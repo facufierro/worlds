@@ -1,14 +1,14 @@
-2024/02/13-14:27:58.641 540 Recovering log #726
-2024/02/13-14:27:58.648 540 Delete type=0 #726
-2024/02/13-14:27:58.648 540 Delete type=3 #724
-2024/02/13-16:54:13.589 1518 Level-0 table #731: started
-2024/02/13-16:54:13.593 1518 Level-0 table #731: 81464 bytes OK
-2024/02/13-16:54:13.595 1518 Delete type=0 #729
-2024/02/13-16:54:13.597 1518 Manual compaction at level-0 from '!actors!03FWj9fZn5OBNUdd' @ 72057594037927935 : 1 .. '!actors.items!qTVZV1tBLogyrxQS.8tZw5RUlxt9TtStD' @ 0 : 0; will stop at '!actors!x1zV6t4EVRUtIE1A' @ 2882 : 1
-2024/02/13-16:54:13.597 1518 Compacting 1@0 + 1@1 files
-2024/02/13-16:54:13.603 1518 Generated table #732@0: 31 keys, 109812 bytes
-2024/02/13-16:54:13.603 1518 Compacted 1@0 + 1@1 files => 109812 bytes
-2024/02/13-16:54:13.605 1518 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/13-16:54:13.605 1518 Delete type=2 #719
-2024/02/13-16:54:13.605 1518 Delete type=2 #731
-2024/02/13-16:54:13.611 1518 Manual compaction at level-0 from '!actors!x1zV6t4EVRUtIE1A' @ 2882 : 1 .. '!actors.items!qTVZV1tBLogyrxQS.8tZw5RUlxt9TtStD' @ 0 : 0; will stop at (end)
+2024/02/15-16:57:51.114 5774 Recovering log #764
+2024/02/15-16:57:51.120 5774 Delete type=0 #764
+2024/02/15-16:57:51.121 5774 Delete type=3 #763
+2024/02/15-17:55:47.582 62cc Level-0 table #768: started
+2024/02/15-17:55:47.592 62cc Level-0 table #768: 649621 bytes OK
+2024/02/15-17:55:47.595 62cc Delete type=0 #766
+2024/02/15-17:55:47.602 62cc Manual compaction at level-0 from '!actors!2kNWBVZSROemesJm' @ 72057594037927935 : 1 .. '!actors.items!wPpGGnDkDO5VBabM.z6B8vR9LhlO4msoR' @ 0 : 0; will stop at '!actors.items!yo9tSb7I0nLpxBMr.ttH6FnZlWokOyKGn' @ 3036 : 0
+2024/02/15-17:55:47.602 62cc Compacting 1@0 + 1@1 files
+2024/02/15-17:55:47.632 62cc Generated table #769@0: 169 keys, 161069 bytes
+2024/02/15-17:55:47.632 62cc Compacted 1@0 + 1@1 files => 161069 bytes
+2024/02/15-17:55:47.634 62cc compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/02/15-17:55:47.635 62cc Delete type=2 #746
+2024/02/15-17:55:47.635 62cc Delete type=2 #768
+2024/02/15-17:55:47.635 62cc Manual compaction at level-0 from '!actors.items!yo9tSb7I0nLpxBMr.ttH6FnZlWokOyKGn' @ 3036 : 0 .. '!actors.items!wPpGGnDkDO5VBabM.z6B8vR9LhlO4msoR' @ 0 : 0; will stop at (end)
