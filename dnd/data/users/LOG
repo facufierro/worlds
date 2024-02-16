@@ -1,14 +1,5 @@
-2024/02/15-17:56:53.998 3eb8 Recovering log #754
-2024/02/15-17:56:54.003 3eb8 Delete type=0 #754
-2024/02/15-17:56:54.003 3eb8 Delete type=3 #752
-2024/02/15-18:00:09.107 62cc Level-0 table #760: started
-2024/02/15-18:00:09.111 62cc Level-0 table #760: 44792 bytes OK
-2024/02/15-18:00:09.113 62cc Delete type=0 #758
-2024/02/15-18:00:09.137 62cc Manual compaction at level-0 from '!users!GUMPDA0zTYnbMD9Y' @ 72057594037927935 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at '!users!pS7WJX8uUJ4h9AsO' @ 480 : 1
-2024/02/15-18:00:09.137 62cc Compacting 1@0 + 1@1 files
-2024/02/15-18:00:09.140 62cc Generated table #761@0: 6 keys, 23983 bytes
-2024/02/15-18:00:09.140 62cc Compacted 1@0 + 1@1 files => 23983 bytes
-2024/02/15-18:00:09.142 62cc compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/15-18:00:09.143 62cc Delete type=2 #756
-2024/02/15-18:00:09.143 62cc Delete type=2 #760
-2024/02/15-18:00:09.143 62cc Manual compaction at level-0 from '!users!pS7WJX8uUJ4h9AsO' @ 480 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at (end)
+2024/02/16-16:23:46.432 2aac Recovering log #911
+2024/02/16-16:23:46.441 2aac Level-0 table #914: started
+2024/02/16-16:23:46.452 2aac Level-0 table #914: 912211 bytes OK
+2024/02/16-16:23:46.457 2aac Delete type=0 #911
+2024/02/16-16:23:46.458 2aac Delete type=3 #884

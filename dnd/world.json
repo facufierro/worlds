@@ -9,6 +9,21 @@
     "verified": "11"
   },
   "systemVersion": "3.0.2",
-  "lastPlayed": "Thu Feb 15 2024 18:00:08 GMT+0100 (Central European Standard Time)",
-  "playtime": 261807
+  "lastPlayed": "Fri Feb 16 2024 16:23:46 GMT+0100 (Central European Standard Time)",
+  "playtime": 264986,
+  "packs": [
+    {
+      "label": "Mass Edit: Presets (MAIN)",
+      "type": "JournalEntry",
+      "ownership": {
+        "GAMEMASTER": "NONE",
+        "PLAYER": "NONE",
+        "ASSISTANT": "NONE"
+      },
+      "name": "mass-edit-presets-main",
+      "path": "packs/mass-edit-presets-main",
+      "system": "dnd5e",
+      "flags": {}
+    }
+  ]
 }
