@@ -1,5 +1,7 @@
-2024/02/16-16:23:46.432 2aac Recovering log #911
-2024/02/16-16:23:46.441 2aac Level-0 table #914: started
-2024/02/16-16:23:46.452 2aac Level-0 table #914: 912211 bytes OK
-2024/02/16-16:23:46.457 2aac Delete type=0 #911
-2024/02/16-16:23:46.458 2aac Delete type=3 #884
+2024/02/20-18:16:39.245 4c4c Recovering log #1592
+2024/02/20-18:16:39.250 4c4c Delete type=0 #1592
+2024/02/20-18:16:39.250 4c4c Delete type=3 #1590
+2024/02/20-18:17:45.097 5dd0 Level-0 table #1597: started
+2024/02/20-18:17:45.097 5dd0 Level-0 table #1597: 0 bytes OK
+2024/02/20-18:17:45.100 5dd0 Delete type=0 #1595
+2024/02/20-18:17:45.102 5dd0 Manual compaction at level-0 from '!users!GUMPDA0zTYnbMD9Y' @ 72057594037927935 : 1 .. '!users!pS7WJX8uUJ4h9AsO' @ 0 : 0; will stop at (end)

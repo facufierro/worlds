@@ -1,3 +1,8 @@
-2024/02/16-09:08:08.657 2cac Recovering log #709
-2024/02/16-09:08:08.662 2cac Delete type=0 #709
-2024/02/16-09:08:08.662 2cac Delete type=3 #707
+2024/02/20-17:46:32.823 4c4c Recovering log #1055
+2024/02/20-17:46:32.829 4c4c Delete type=0 #1055
+2024/02/20-17:46:32.829 4c4c Delete type=3 #1053
+2024/02/20-18:13:18.859 5dd0 Level-0 table #1060: started
+2024/02/20-18:13:18.860 5dd0 Level-0 table #1060: 0 bytes OK
+2024/02/20-18:13:18.861 5dd0 Delete type=0 #1058
+2024/02/20-18:13:18.869 5dd0 Manual compaction at level-0 from '!combats!7QYF84uzIvLdGw69' @ 72057594037927935 : 1 .. '!combats!MB70S2uNlkID8fsx' @ 0 : 0; will stop at (end)
+2024/02/20-18:13:18.887 5dd0 Manual compaction at level-1 from '!combats!7QYF84uzIvLdGw69' @ 72057594037927935 : 1 .. '!combats!MB70S2uNlkID8fsx' @ 0 : 0; will stop at (end)

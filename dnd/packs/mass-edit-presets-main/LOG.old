@@ -1,3 +1,8 @@
-2024/02/16-09:08:08.779 5aec Recovering log #12
-2024/02/16-09:08:08.783 5aec Delete type=0 #12
-2024/02/16-09:08:08.783 5aec Delete type=3 #10
+2024/02/20-17:46:32.948 360c Recovering log #343
+2024/02/20-17:46:32.952 360c Delete type=0 #343
+2024/02/20-17:46:32.952 360c Delete type=3 #341
+2024/02/20-18:13:18.887 5dd0 Level-0 table #348: started
+2024/02/20-18:13:18.887 5dd0 Level-0 table #348: 0 bytes OK
+2024/02/20-18:13:18.890 5dd0 Delete type=0 #346
+2024/02/20-18:13:18.892 5dd0 Manual compaction at level-0 from '!journal!MassEditMetaData' @ 72057594037927935 : 1 .. '!journal!MassEditMetaData' @ 0 : 0; will stop at (end)
+2024/02/20-18:13:18.899 5dd0 Manual compaction at level-1 from '!journal!MassEditMetaData' @ 72057594037927935 : 1 .. '!journal!MassEditMetaData' @ 0 : 0; will stop at (end)
