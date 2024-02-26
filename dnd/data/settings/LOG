@@ -1,14 +1,5 @@
-2024/02/20-18:16:39.237 360c Recovering log #1318
-2024/02/20-18:16:39.242 360c Delete type=0 #1318
-2024/02/20-18:16:39.242 360c Delete type=3 #1316
-2024/02/20-18:17:45.071 5dd0 Level-0 table #1324: started
-2024/02/20-18:17:45.074 5dd0 Level-0 table #1324: 4457 bytes OK
-2024/02/20-18:17:45.076 5dd0 Delete type=0 #1322
-2024/02/20-18:17:45.091 5dd0 Manual compaction at level-0 from '!settings!0CpuIO4RUsYQX5vd' @ 72057594037927935 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at '!settings!hv6CqdAV9eDslXvp' @ 3988 : 1
-2024/02/20-18:17:45.091 5dd0 Compacting 1@0 + 1@1 files
-2024/02/20-18:17:45.095 5dd0 Generated table #1325@0: 198 keys, 65122 bytes
-2024/02/20-18:17:45.095 5dd0 Compacted 1@0 + 1@1 files => 65122 bytes
-2024/02/20-18:17:45.097 5dd0 compacted to: files[ 0 1 0 0 0 0 0 ]
-2024/02/20-18:17:45.097 5dd0 Delete type=2 #1320
-2024/02/20-18:17:45.097 5dd0 Delete type=2 #1324
-2024/02/20-18:17:45.100 5dd0 Manual compaction at level-0 from '!settings!hv6CqdAV9eDslXvp' @ 3988 : 1 .. '!settings!zzpjKOtBELnxiXfv' @ 0 : 0; will stop at (end)
+2024/02/25-22:54:36.067 7580 Recovering log #1634
+2024/02/25-22:54:36.067 7580 Level-0 table #1636: started
+2024/02/25-22:54:36.070 7580 Level-0 table #1636: 10745 bytes OK
+2024/02/25-22:54:36.076 7580 Delete type=0 #1634
+2024/02/25-22:54:36.076 7580 Delete type=3 #1632
