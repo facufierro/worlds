@@ -1,5 +1,22 @@
-2024/02/25-17:27:31.686 6df0 Recovering log #1398
-2024/02/25-17:27:31.687 6df0 Level-0 table #1400: started
-2024/02/25-17:27:31.698 6df0 Level-0 table #1400: 909945 bytes OK
-2024/02/25-17:27:31.704 6df0 Delete type=0 #1398
-2024/02/25-17:27:31.704 6df0 Delete type=3 #1397
+2024/03/02-22:13:24.341374 7f66067be6c0 Recovering log #1596
+2024/03/02-22:13:24.349109 7f66067be6c0 Delete type=3 #1594
+2024/03/02-22:13:24.349196 7f66067be6c0 Delete type=0 #1596
+2024/03/02-22:17:30.104705 7f6367fff6c0 Level-0 table #1601: started
+2024/03/02-22:17:30.107725 7f6367fff6c0 Level-0 table #1601: 1386 bytes OK
+2024/03/02-22:17:30.111256 7f6367fff6c0 Delete type=0 #1599
+2024/03/02-22:17:30.116894 7f6367fff6c0 Manual compaction at level-0 from '!messages!DVCTp2mEomX5Uw6V' @ 72057594037927935 : 1 .. '!messages!yTOQ7eMKp04f5b21' @ 0 : 0; will stop at '!messages!yTOQ7eMKp04f5b21' @ 10648 : 1
+2024/03/02-22:17:30.116900 7f6367fff6c0 Compacting 1@0 + 1@1 files
+2024/03/02-22:17:30.119650 7f6367fff6c0 Generated table #1602@0: 15 keys, 1074 bytes
+2024/03/02-22:17:30.119666 7f6367fff6c0 Compacted 1@0 + 1@1 files => 1074 bytes
+2024/03/02-22:17:30.122407 7f6367fff6c0 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/03/02-22:17:30.122493 7f6367fff6c0 Delete type=2 #1601
+2024/03/02-22:17:30.122555 7f6367fff6c0 Delete type=2 #1593
+2024/03/02-22:17:30.129897 7f6367fff6c0 Manual compaction at level-0 from '!messages!yTOQ7eMKp04f5b21' @ 10648 : 1 .. '!messages!yTOQ7eMKp04f5b21' @ 0 : 0; will stop at (end)
+2024/03/02-22:17:30.165897 7f6367fff6c0 Manual compaction at level-1 from '!messages!DVCTp2mEomX5Uw6V' @ 72057594037927935 : 1 .. '!messages!yTOQ7eMKp04f5b21' @ 0 : 0; will stop at '!messages!yTOQ7eMKp04f5b21' @ 10649 : 1
+2024/03/02-22:17:30.165909 7f6367fff6c0 Compacting 1@1 + 1@2 files
+2024/03/02-22:17:30.168918 7f6367fff6c0 Generated table #1603@1: 7 keys, 870 bytes
+2024/03/02-22:17:30.168937 7f6367fff6c0 Compacted 1@1 + 1@2 files => 870 bytes
+2024/03/02-22:17:30.171285 7f6367fff6c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/03/02-22:17:30.171404 7f6367fff6c0 Delete type=2 #1585
+2024/03/02-22:17:30.171529 7f6367fff6c0 Delete type=2 #1602
+2024/03/02-22:17:30.174304 7f6367fff6c0 Manual compaction at level-1 from '!messages!yTOQ7eMKp04f5b21' @ 10649 : 1 .. '!messages!yTOQ7eMKp04f5b21' @ 0 : 0; will stop at (end)
