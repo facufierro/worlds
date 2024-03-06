@@ -1,7 +1,22 @@
-2024/03/02-22:13:24.241532 7f6605fbd6c0 Recovering log #1702
-2024/03/02-22:13:24.316728 7f6605fbd6c0 Delete type=3 #1700
-2024/03/02-22:13:24.316805 7f6605fbd6c0 Delete type=0 #1702
-2024/03/02-22:17:30.101413 7f6367fff6c0 Level-0 table #1707: started
-2024/03/02-22:17:30.101442 7f6367fff6c0 Level-0 table #1707: 0 bytes OK
-2024/03/02-22:17:30.104650 7f6367fff6c0 Delete type=0 #1705
-2024/03/02-22:17:30.116876 7f6367fff6c0 Manual compaction at level-0 from '!actors!1byXO1qOVEdzfC9D' @ 72057594037927935 : 1 .. '!actors.items.effects!kSsC64oRlaScaBmx.WRQLv7nUZd9uVRpc.hIaIpLxcMZSY3qXi' @ 0 : 0; will stop at (end)
+2024/03/06-10:03:20.088 3774 Recovering log #1847
+2024/03/06-10:03:20.088 3774 Level-0 table #1851: started
+2024/03/06-10:03:20.094 3774 Level-0 table #1851: 165729 bytes OK
+2024/03/06-10:03:20.105 3774 Delete type=0 #1847
+2024/03/06-10:03:20.105 3774 Delete type=3 #1845
+2024/03/06-10:03:26.234 66f0 Compacting 1@0 + 1@1 files
+2024/03/06-10:03:26.244 66f0 Generated table #1853@0: 565 keys, 833210 bytes
+2024/03/06-10:03:26.244 66f0 Compacted 1@0 + 1@1 files => 833210 bytes
+2024/03/06-10:03:26.246 66f0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/06-10:03:26.246 66f0 Delete type=2 #1849
+2024/03/06-10:03:26.246 66f0 Delete type=2 #1851
+2024/03/06-10:06:38.025 66f0 Level-0 table #1855: started
+2024/03/06-10:06:38.028 66f0 Level-0 table #1855: 5453 bytes OK
+2024/03/06-10:06:38.031 66f0 Delete type=0 #1852
+2024/03/06-10:06:38.052 66f0 Manual compaction at level-0 from '!actors!00pxEGMUaJPglNP9' @ 72057594037927935 : 1 .. '!actors.items.effects!wcrUjBpWi1dlQlYK.xLpBWchoPpQhdsI1.XRN8AuNA4dGBDv1g' @ 0 : 0; will stop at '!actors.items.effects!xW0VawRFxWtR1GyN.x4dcWGxJWIbcOiS3.hzQdCAC3gFDfLREf' @ 33881 : 0
+2024/03/06-10:06:38.052 66f0 Compacting 1@0 + 1@1 files
+2024/03/06-10:06:38.060 66f0 Generated table #1856@0: 353 keys, 548889 bytes
+2024/03/06-10:06:38.060 66f0 Compacted 1@0 + 1@1 files => 548889 bytes
+2024/03/06-10:06:38.061 66f0 compacted to: files[ 0 1 0 0 0 0 0 ]
+2024/03/06-10:06:38.061 66f0 Delete type=2 #1853
+2024/03/06-10:06:38.061 66f0 Delete type=2 #1855
+2024/03/06-10:06:38.069 66f0 Manual compaction at level-0 from '!actors.items.effects!xW0VawRFxWtR1GyN.x4dcWGxJWIbcOiS3.hzQdCAC3gFDfLREf' @ 33881 : 0 .. '!actors.items.effects!wcrUjBpWi1dlQlYK.xLpBWchoPpQhdsI1.XRN8AuNA4dGBDv1g' @ 0 : 0; will stop at (end)
